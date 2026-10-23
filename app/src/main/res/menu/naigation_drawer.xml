@@ -3,7 +3,7 @@
     <item
         android:id="@+id/menu_inicio"
         android:title="@string/inicio"
-        android:icon="@drawable/ic_menu"/>
+        android:icon="@android:drawable/ic_menu_view"/>
 
     <item
         android:id="@+id/menu_perfil"
@@ -11,8 +11,7 @@
         android:icon="@android:drawable/ic_menu_myplaces"/>
 
     <item
-    android:id="@+id/menu_config"
-    android:title="@string/config"
-    android:icon="@android:drawable/ic_menu_manage"/>
-
-</menu>
+        android:id="@+id/menu_config"
+        android:title="@string/config"
+        android:icon="@android:drawable/ic_menu_manage"/>
+</menu> 
